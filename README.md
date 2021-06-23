@@ -1,3 +1,5 @@
+![maketv-logo-transparent (1)](https://user-images.githubusercontent.com/40687403/123046621-9d58e480-d3fc-11eb-90e4-026d2665e1a4.png)
+
 IPTV Custom Tailored for You
 
 Make TV is a complete IPTV middleware and OTT client software platform for delivering live TV, internet radio, Video-On-Demand and other non-linear and interactive services to end users in any IP or hybrid based network.
