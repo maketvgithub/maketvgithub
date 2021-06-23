@@ -1,4 +1,7 @@
-### Hi there 👋
+IPTV Custom Tailored for You
+
+Make TV is a complete IPTV middleware and OTT client software platform for delivering live TV, internet radio, Video-On-Demand and other non-linear and interactive services to end users in any IP or hybrid based network.
+We support all the latest encoding, DRM and playout platforms, but strongly recommend Elemental Technologies solutions like Live and Delta which offer the most balanced features for todays' workflows
 
 <!--
 **maketvgithub/maketvgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
