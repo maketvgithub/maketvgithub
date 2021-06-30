@@ -6,10 +6,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [4.0.58-test] - 30.06.2021.
  
-### Added
-
-### Changed
-
 ### Fixed
 - Bugfix za učitavanje novih vod naslova na sekcijama "Filmovi" i "Serije"
  
