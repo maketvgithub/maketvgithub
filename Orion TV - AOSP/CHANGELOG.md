@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [4.0.53-beta1] - 02.07.2021.
+
+### Changed
+- Statistika unapređena za biranje kontenta
+
+### Fixed
+- Bugfix za prikazivanje slicnog sadrzaja u detaljima Video kluba
+
 ## [4.0.58-test] - 30.06.2021.
  
 ### Fixed
