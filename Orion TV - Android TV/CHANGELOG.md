@@ -4,47 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased] - yyyy-mm-dd
- 
-Here we write upgrading notes for brands. It's a team effort to make them as
-straightforward as possible.
- 
+## [2.0.24] - 05.07.2021.
+
 ### Added
-- [PROJECTNAME-XXXX](http://tickets.projectname.com/browse/PROJECTNAME-XXXX)
-  MINOR Ticket title goes here.
-- [PROJECTNAME-YYYY](http://tickets.projectname.com/browse/PROJECTNAME-YYYY)
-  PATCH Ticket title goes here.
+- Globalna promenljiva "VOD_PAGINATION" koja će označavati maksimalan broj zapisa na VOD sekciji po jednoj stranici u trenutku učitavanja. Moguće je promeniti ovu vrednost u svakom trenutku na serveru i to će biti vidljivo automatski u aplikaciji.
+- Dodata je mogućnost vraćanja na vrh liste na BACK dugme unutar VOD sekcije
+- Globalna promenljiva "CHECK_VOD_SERVICE" koja će označavati da li je potrebno da korisnik ima vod servis za prikazivanje opcije VOD u glavnom meniju početne stranice
+- Paginacija dodata u VOD sekciji za Filmove i Serije, pa se neće odjednom učitavati 100 ili više naslova, već 50 po stranici, koje je moguće izmeniti (Pogledati VOD_PAGINATION promenljivu)
+- Animacija prilikom učitavanja slika u VOD sekciji
  
 ### Changed
- 
+- Povratak iz VOD Plejera ne vodi više na stranicu gde su kanali, već na početnu stranicu Video kluba
+- Statistika unapređena za biranje kontenta
+
 ### Fixed
- 
-## [1.2.4] - 2017-03-15
-  
-Here we would have the update steps for 1.2.4 for people to follow.
- 
-### Added
- 
-### Changed
-  
-- [PROJECTNAME-ZZZZ](http://tickets.projectname.com/browse/PROJECTNAME-ZZZZ)
-  PATCH Drupal.org is now used for composer.
- 
-### Fixed
- 
-- [PROJECTNAME-TTTT](http://tickets.projectname.com/browse/PROJECTNAME-TTTT)
-  PATCH Add logic to runsheet teaser delete to delete corresponding
-  schedule cards.
- 
-## [1.2.3] - 2017-03-14
- 
-### Added
-   
-### Changed
- 
-### Fixed
- 
-- [PROJECTNAME-UUUU](http://tickets.projectname.com/browse/PROJECTNAME-UUUU)
-  MINOR Fix module foo tests
-- [PROJECTNAME-RRRR](http://tickets.projectname.com/browse/PROJECTNAME-RRRR)
-  MAJOR Module foo's timeline uses the browser timezone for date resolution 
+- Sekcija "Najgledanije" više ne učitava duplikate
+- Ispravke grešaka iz izveštaja Firebase Crash Analitike
+- Bugfix za učitavanje novih vod naslova na sekcijama "Filmovi" i "Serije"
+- Bugfix za prikazivanje slicnog sadrzaja u detaljima Video kluba
