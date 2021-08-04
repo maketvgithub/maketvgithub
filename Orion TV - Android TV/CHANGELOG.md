@@ -3,7 +3,20 @@ All notable changes to this project will be documented in this file.
  
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
- 
+
+## [3.0.0-beta1] - 04.08.2021.
+
+### Added
+- Nova opcija za podešavanje podsetnika (vreme pre početka emisije kada će se popup prikazati, vreme kada će se automatski popup sakriti nakon prikazivanja)
+- Nova opcija u podešavanjima koja omogućava korisniku da uključi u Catchupu automatsko puštanje sledeće emisije nakon završetka trenutne emisije koju je gledao (Ova funkcionalnost radiće i za VOD)
+- Menjanje kanala unutar kategorija. Ova opcija se uključuje kroz podešavanja i biće po defaultu isključena.
+
+### Changed
+/
+
+### Fixed
+- Preskakanje sadržaja na kraj videa u VODu nije radilo ukoliko je prethodno korisnik puštao Catchup.
+
 ## [2.0.24] - 05.07.2021.
 
 ### Added
