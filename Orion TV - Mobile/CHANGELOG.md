@@ -10,7 +10,7 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 - Novi ekran je dodat za zaboravljenu lozinku (Takođe ukoliko pogrešite lozinku, dobićete poruku koja će vas usmeriti da promenite lozinku)
 - Dodat je broj VoD naslova u katalogu (Ovde su uključene i epizode zbirno po svim sezonama po seriji)
 - Na mnogim mestima u aplikaciji dodata je redirekcija korisnika na login ukoliko je sesija istekla
-- Dodata je lista nepoželjnih kanala (Za sada samo kanal koji smo koristili za internu logiku i koji ne postoji i zbog kojeg je crashovala aplikacija na Demo nalogu, ali i na Freemium/Paid)
+- Dodata je lista nepoželjnih kanala (Za sada samo kanal koji smo koristili za internu logiku i koji ne postoji i zbog kojeg je crashovala aplikacija na Demo nalogu, ali i na Freemium/Paid dok se radila pretraga)
 - Lokalizacija na nekim mestima gde je nije bilo
  
 ### Changed
