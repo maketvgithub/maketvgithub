@@ -16,16 +16,10 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 ### Changed
 - Uklonjen tekst "Sortirajte" na VoD ekranu
 - Sličan VoD sadržaj - izmenjena logika i izmenjeni filteri za dobijanje sličnog sadržaja
-
-### Deprecated
-
-### Removed
  
 ### Fixed
 - Ispravljen bug u detaljima VoD-a
 - Rešen je problem sa puštanjem kanala na swipe dok ste na Live stream-u
-
-### Security
  
 ## [5.0.0-alpha.5] - 14.04.2022.
  
@@ -41,10 +35,6 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 - Pretraga je unapređena
 - Neke opcije su sakrivene u podešavanjima za demo korisnika
 - VoD UI
-
-### Deprecated
-
-### Removed
  
 ### Fixed
 - Crash fix za demo ili regularnog korisnika nakon prinudnog zatvaranja aplikacije
@@ -52,6 +42,4 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 - Rešen problem sa konstantnim prikazivanjem progresa nakon prelaska sa 
 - Dešavalo se da nakon brisanja aplikacije neki podaci ostaju sačuvani na memoriji uređaja
 - Ispravljene pojedine greške iz test run-ova
-
-### Security
  
