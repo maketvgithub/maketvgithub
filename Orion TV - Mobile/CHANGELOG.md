@@ -4,6 +4,26 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-alpha.7] - 27.04.2022.
+
+### Added
+- Ukoliko je istekla sesija, dodata je redirekcija na login ekran i u programskoj šemi, kao i u detaljima emisije
+- Dodati su baneri u listi kanala (Moguće je malo usporenje tu, ali ne nešto značajno)
+- Logotipi za belu pozadinu
+- Puštanje radio kanala u pozadini, kao i dodavanje plejera u status baru
+- Novi ekran za brisanje uređaja ukoliko je dostignut limit za kreiranje novih uređaja.
+- Dodate su kategorije kada se uređuje lista "Moji kanali"
+
+### Changed
+- Sakrivene su kategorije "Erotski" i "HD"
+- Provera korisničkog imena da li je potrebno dodavanje email adrese i prilikom logovanja
+- Umesto polja za email, sada se je korisničko ime na ekranu za promenu lozinke
+- Sakrivena je opcija za podesavanje vidljivosti kanala
+
+### Fixed
+- Ispravljeno je funkcionisanje filtera za kategorije "TV Unazad" i "Omiljeni" u listi kanala
+- 
+
 ## [5.0.0-alpha.6] - 19.04.2022.
  
 ### Added
