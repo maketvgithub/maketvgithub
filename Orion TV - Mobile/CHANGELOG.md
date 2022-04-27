@@ -22,7 +22,6 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
 ### Fixed
 - Ispravljeno je funkcionisanje filtera za kategorije "TV Unazad" i "Omiljeni" u listi kanala
-- 
 
 ## [5.0.0-alpha.6] - 19.04.2022.
  
