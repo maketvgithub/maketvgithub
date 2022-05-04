@@ -4,6 +4,20 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-beta.1] - 04.05.2022.
+
+### Added
+- Placeholder za slot kada slika emisije nije dostupna
+- Prelazak iz testnog okruženja u produkcijsko okruženje kako za regularnog korisnika, tako i za demo korisnika (Napomena: Potrebno je konfigurisati VoD sadržaj da se prikazuje u zoni u kojoj je demo korisnik, ali i korisnik koji se besplatno registruje)
+
+### Changed
+- Reklame se prikazuju od sada samo FREE i DEMO korisnicima
+
+### Fixed
+- Bugfix za crash pri puštanju live strem-a iz EPG Details
+- Bugfix za slotove kanala kada trenutna emisija nije dostupna za neki od kanala iz liste omiljenih kanala.
+
+
 ## [5.0.0-alpha.7] - 27.04.2022.
 
 ### Added
