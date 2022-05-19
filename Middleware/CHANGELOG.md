@@ -4,6 +4,12 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [server-3.0.1-SNAPSHOT] - 19.05.2022.
+
+### Fixed
+- Bug sa prikazivanjem pozicije odgledanog vod sadržaja ispravljen
+- Default base url za CRM api ispravljen
+
 ## [server-3.0.0-SNAPSHOT] - 04.05.2022.
  
 ### Added
