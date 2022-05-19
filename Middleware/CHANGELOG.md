@@ -7,7 +7,7 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 ## [server-3.0.1-SNAPSHOT] - 19.05.2022.
 
 ### Changed
-- Dodavanje kanala u favorite je moguće i za kanale na koje korisnik nije pretplaćen. Ova izmena je bila neophodna zbog konfiguracije sa vast kanalima i nemogućnosti da freemium korisnici dodaju kanale u listu favorita
+- Dodavanje kanala u favorite je moguće i za kanale za koje korisnik nije pretplaćen. Ova izmena je bila neophodna zbog konfiguracije sa vast kanalima u zoni 30 i nemogućnosti da freemium korisnici dodaju kanale u listu favorita
 
 ### Fixed
 - Bug sa prikazivanjem pozicije odgledanog vod sadržaja ispravljen
