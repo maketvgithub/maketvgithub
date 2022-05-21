@@ -4,6 +4,23 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-beta.2] - 21.05.2022.
+
+### Added
+- Nakon promene kanala u plejeru i povratak u listu kanala, lista će biti pozicionirana na kanalu koji ste poslednji gledali
+- Analitika dodata za praćenje kretanja u aplikaciji (Napomena: Ostalo je na još nekoliko mesta u aplikaciji dodati)
+
+### Changed
+- Optimizovane slike u VoD sekciji
+- Izmenjen način učitavanja podataka u detaljima Video kluba
+- Minimalni broj karaktera potreban za pretraživanje pojmova je 2
+- Redizajn templejta za nativne reklame
+- Notifikacije se ne prikazuju više pri promeni radio kanala
+- Zamenjeni test ključevi za prikazivanje Guglovih reklama
+
+### Fixed
+- Rešeno je pucanje aplikacije kada se listaju Radio kanali 
+
 ## [5.0.0-beta.1] - 04.05.2022.
 
 ### Added
