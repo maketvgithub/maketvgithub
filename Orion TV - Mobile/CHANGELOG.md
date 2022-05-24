@@ -4,6 +4,24 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-beta.3] - 24.05.2022.
+
+### Added
+- Dodat placeholder u video klubu, kada slika nije dostupna
+- Dodato objašnjenje u sistemskim podešavanjima aplikacije čemu služi obaveštenje za plejer koje se prikazuje samo u slučaju puštanja radio kanala
+
+### Changed
+- Onemogućeno je dodavanje kanala u listu omiljenih kanala za Freemium i Demo korisnike u programskoj šemi
+- Više nije vidljiva moja lista Freemium korisnicima. Umesto toga, prikazuju se najgledaniji kanali
+- Promenjena putanja za logotipe za belu pozadinu
+- Ukoliko je notifikacija ostala u status baru, pri povratku u aplikaciju biće uklonjena u slučaju da je korisnik ranije prinudno zatvorio aplikaciju
+
+### Fixed
+- Kod radio kanala linija koja se pojavljuje kao senka koja prekriva sadržaj nije više vidljiva. 
+- Kod radio kanala sakrivanje bottom menija se dešava pri skrolovanju liste.
+- Vast reklame se više ne prikazuju za sve korisnike.
+- Klik na notifikaciju, kada je radio kanal aktivan sada radi i otvara radio kanal koji trenutno ide
+
 ## [5.0.0-beta.2] - 21.05.2022.
 
 ### Added
