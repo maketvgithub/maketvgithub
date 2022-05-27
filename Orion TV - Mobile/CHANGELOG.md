@@ -4,6 +4,17 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-beta.4] - 27.05.2022.
+
+### Changed
+- Zamenjena ikonica aplikacije na uvodnom ekranu
+- Pozdravna poruka zamenjena za demo korisnika
+- Izmenjen način prikazivanja reklama. Ukoliko su u isto vreme aktivne Google i Pre-roll reklame, mi određujemo procentualno koja reklama će češće da se prikazuje. Trenutno je odnos 50:50. Broj promena je isti i za Pre-roll i Google.
+
+### Fixed
+- Notifikacija se uklanja i radio kanal prestaje da radi nakon što se korisnik izloguje iz aplikacije
+- Kada se uklone svi podsetnici, prikaže se poruka da više nema nijedan podsetnik i edit mode je sakriven, kao i dugme za uklanjanje podsetnika
+
 ## [5.0.0-beta.3] - 24.05.2022.
 
 ### Added
