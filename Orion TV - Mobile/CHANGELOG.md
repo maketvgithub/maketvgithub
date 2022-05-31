@@ -4,6 +4,21 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-beta.5] - 31.05.2022.
+
+### Added
+- Pri dobavljanju liste kategorija za kanale, podacu su lokalizovani i dobijaju se u jeziku koji je podešen na uređaju
+
+### Changed
+- Izmenjen prag za promenu kanala prevlačenje prstom
+
+### Fixed
+- Ispravljeno je prikazivanje Google reklame svaki put nakon promene kanala kada je samo ovaj format aktivan, odnosno pre-roll reklame su pauzirane
+
+### Fixed
+- Notifikacija se uklanja i radio kanal prestaje da radi nakon što se korisnik izloguje iz aplikacije
+- Kada se uklone svi podsetnici, prikaže se poruka da više nema nijedan podsetnik i edit mode je sakriven, kao i dugme za uklanjanje podsetnika
+
 ## [5.0.0-beta.4] - 27.05.2022.
 
 ### Changed
