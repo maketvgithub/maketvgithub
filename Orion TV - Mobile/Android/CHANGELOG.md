@@ -4,6 +4,20 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0-rc.2] - 15.06.2022.
+
+### Added
+- Dodat broj telefona korisničke podrške za poruku kad usluga nije dostupna ili kanal nije u okviru paketa
+- Dodata je nova opcija u podešavanjima "Zadrži originalni odnos širine i visine videa" koja omogućava korisniku da pri gledanju live stream-a ne dobije razvučenu sliku, već u originalnom formatu.
+- Dodata je nova opcija u podešavanjima "Nastavi da slušaš radio u pozadini" koja omogućava korisniku da isključi puštanje radio kanala u pozadini pri svakom prelasku sa strima na početni ekran
+- Dodate Google reklame na početnom ekranu
+
+### Changed
+- Uklonjen okvir logoa na uvodnom ekranu za upoznavanje sa aplikacijom
+- Prilagođeni tekstovi politici kompanije. Obraćanje je na ti, a ne Vi. 
+- Izmenjen način puštanja radio kanala. Dodat servis koji će omogućiti plejeru da radi u pozadini dok aplikacije nije aktivna ili dok je telefon zaključan. Takođe, notifikacije će se prikazivati uvek.
+
+
 ## [5.0.0-beta.5] - 31.05.2022.
 
 ### Added
