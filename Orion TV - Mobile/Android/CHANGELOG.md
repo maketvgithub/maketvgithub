@@ -16,6 +16,7 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 - Uklonjen okvir logoa na uvodnom ekranu za upoznavanje sa aplikacijom
 - Prilagođeni tekstovi politici kompanije. Obraćanje je na ti, a ne Vi. 
 - Izmenjen način puštanja radio kanala. Dodat servis koji će omogućiti plejeru da radi u pozadini dok aplikacije nije aktivna ili dok je telefon zaključan. Takođe, notifikacije će se prikazivati uvek.
+- Pozdravna poruka "Dobro jutro" se prikazuje sada od 05 - 12, dok se poruka "Dobar dan" prikazuje od 12 - 18 i od 18 do 04 ide poruka "Dobro veče"
 
 
 ## [5.0.0-beta.5] - 31.05.2022.
