@@ -45,6 +45,7 @@
 - Tap on `Contact us` - don't show mail composer if services are not available and show message where to set up an email account (case 706)
 - Now Playing controls
 - Google Cast - on stop casting keep playing on device
+- Mark with reverse icon catchup enabled video channels
 
 ### Explain & Suggest
 - Play buttons have bigger touchable area around the icon (case 685)
