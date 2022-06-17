@@ -38,7 +38,8 @@
     - show images at My Channels (case 699, case 713)
 - EPG details - live/catchup (case 712, case 737) 
     - show play button if current
-    - show remind button if show starts anytime in the future from now
+    - show remind button if Show starts anytime in the future from now
+    - show catchup if Show ended and became past event
 - Player - on change orientation (case 715, case 716)
 - Time controls in Player (case 719)
 - Tap on `Contact us` - don't show mail composer if services are not available and show message where to set up an email account (case 706)
