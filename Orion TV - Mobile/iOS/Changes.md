@@ -24,7 +24,7 @@
 - Share link available on the App Store (case 723)
 - Auto rotate on play, lock player in landscape orientation and resize content layer (case 703)
 - Checkmark for current device is not shown for selection at My Devices to unlink
-- If channel category is not contained in all channels remove from selection
+- If channel category is not contained in all channels remove from selection (case 709)
 - Sound visualization to animation - removed use of mic
 
 ### Fixed
@@ -35,11 +35,11 @@
 - My devices (case 702)
 - Playback - toggle `WiFi required to play video` is off
     - show play buttons at Home screen (case 703)
-    - show images at My Channels (case 699)
-- EPG details - live/catchup (case 712, 737) 
+    - show images at My Channels (case 699, case 713)
+- EPG details - live/catchup (case 712, case 737) 
     - show play button if current
     - show remind button if show starts anytime in the future from now
-- Player - on change orientation (case 715)
+- Player - on change orientation (case 715, case 716)
 - Time controls in Player (case 719)
 - Tap on `Contact us` - don't show mail composer if services are not available and show message where to set up an email account (case 706)
 - Now Playing controls
