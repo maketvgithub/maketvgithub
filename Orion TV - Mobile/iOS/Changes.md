@@ -55,7 +55,7 @@
     - increase the size of meaningful interface icons as font size increases
 - Home Banner is now visible regardless of remote configuration for testing purposes (case 686)
 - Touch and hold to show up volume control (case 717)
-- Link to buy premium package (case 734) - I'm not sure is it legal(Apple have In-App Purchase) and depends on external services but if Apple 
+- Link to buy premium package (case 734) - I'm not sure is it legal(Apple have In-App Purchase) and depends on external services but if Apple agree 
     - [reader” apps with a link](https://developer.apple.com/support/reader-apps/) 
     - [StoreKit External Purchase](https://developer.apple.com/support/storekit-external-entitlement/)
     - [store rules](https://support.stripe.com/questions/changes-to-mobile-app-store-rules#apple-updates)
