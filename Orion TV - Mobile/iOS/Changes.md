@@ -49,8 +49,9 @@
 
 ### Explain & Suggest
 - Play buttons have bigger touchable area around the icon (case 685)
+- Display (case 685) - adjusting in Settings > Display & Brightness > Text Size
 - Accessibility (case 685) - [Apple HIG /accessibility](https://developer.apple.com/design/human-interface-guidelines/foundations/accessibility)
-    - for example, turn on Larger Accessibility Text Sizes in Settings > Accessibility > Display & Text Size > Larger Text
+    - Larger Accessibility Text Sizes in Settings > Accessibility > Display & Text Size > Larger Text
     - adjusting layout at large font sizes
     - increase the size of meaningful interface icons as font size increases
 - Home Banner is now visible regardless of remote configuration for testing purposes (case 686)
