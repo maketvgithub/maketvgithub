@@ -4,6 +4,11 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.0] - 20.06.2022.
+
+### Added
+- Dodata opcija za proširivanje i smanjivanje ekrana u toku gledanja live stream-a. Opcija se prikazuje, samo kada je u podešavanjima uključena opcija "Zadrži odnos visine i širine videa". 
+
 ## [5.0.0-rc.2] - 15.06.2022.
 
 ### Added
@@ -17,7 +22,6 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 - Prilagođeni tekstovi politici kompanije. Obraćanje je na ti, a ne Vi. 
 - Izmenjen način puštanja radio kanala. Dodat servis koji će omogućiti plejeru da radi u pozadini dok aplikacije nije aktivna ili dok je telefon zaključan. Takođe, notifikacije će se prikazivati uvek.
 - Pozdravna poruka "Dobro jutro" se prikazuje sada od 05 - 12, dok se poruka "Dobar dan" prikazuje od 12 - 18 i od 18 do 04 ide poruka "Dobro veče"
-
 
 ## [5.0.0-beta.5] - 31.05.2022.
 
