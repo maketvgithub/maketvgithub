@@ -4,6 +4,12 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.1] - 22.06.2022.
+
+### Fixed
+- Problem rešen kod Demo korisnika gde prenos slike sa live strima na Chromecast uređaj nije funkcionisao
+- [Firebase Crash Analytics] Case #47ec74303ffa8207a9354f2787a34797 rešen. Potrebno je ispratiti u narednoj verziji da li će se pojaviti ponovo ovaj problem.
+
 ## [5.0.0] - 20.06.2022.
 
 ### Added
