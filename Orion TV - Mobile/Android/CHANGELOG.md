@@ -7,7 +7,7 @@ i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 ## [5.0.2] - 24.06.2022.
 
 ### Fixed
-- Firebase Crashlytics izveštaji
+- [Firebase Crash Analytics] Ispravke
 
 ## [5.0.1] - 22.06.2022.
 
