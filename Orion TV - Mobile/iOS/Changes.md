@@ -9,6 +9,7 @@
 - Advertising Identifier in About screen for testing and will be used in the next test with production Google Ad units
 - Disconnect social account
 - Recent searches fallback
+- Remove reminders fallback
 
 ### Changed
 - Local language localization
