@@ -1,5 +1,34 @@
 # Changes
 
+## 3.0.0(11)
+
+### Added
+- Settings > Playback settings (case 703, 716) - Play locked in landscape mode
+- Home Error screen (case 733) - displayed when session expired or other errors
+- Confirm use cellular to watch live channel in Details
+- Advertising Identifier in About screen for testing and will be used in the next test with production Google Ad units
+- Disconnect social account
+- Recent searches fallback
+- Sidebar navigation on iPad
+
+### Changed
+- Local language localization
+- EPG - scroll to current time (LIVE) or scroll to top if date is in the past
+- Play sound animation or keep playing stream when you back from inactive state - tap a Home button on-screen or home bar on your screen then back to app
+
+### Fixed
+- Pick a date to show EPG (case 712)
+- Hide sound control after few seconds (case 717) 
+- Removed structural navigation that was already set, it should push just once on navigation stack and animate once to Sign in (case 679)
+- Sign in/up with Apple (case 682, 684) - implementation separation - note if you already using Apple ID with this app and you want to sign up, remove your Apple ID that was used in system settings, explained in Manage App Using Apple ID
+- Removed lorem ipsum on confirmation dialog when channel is not available in EPG, added channel name as title
+
+### Explain
+- Username (case 677) - if you type dejan.rogulja it will add suffix `orion.rs`, except you already typed `@`
+- My reminders (case 697) - not reproduced
+- Sign in with Apple - [Manage App Using Apple ID](https://support.apple.com/en-us/HT210426)
+- IDFA - Add Ad Identifier - [Set up a test device](https://support.google.com/admob/answer/9691433#example) 
+
 ## 3.0.0(10)
 
 ### Added
