@@ -9,7 +9,6 @@
 - Advertising Identifier in About screen for testing and will be used in the next test with production Google Ad units
 - Disconnect social account
 - Recent searches fallback
-- Sidebar navigation on iPad
 
 ### Changed
 - Local language localization
