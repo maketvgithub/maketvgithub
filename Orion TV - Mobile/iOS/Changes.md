@@ -19,7 +19,7 @@
 ### Fixed
 - Pick a date to show EPG (case 712)
 - Hide sound control after few seconds (case 717) 
-- Removed structural navigation that was already set, it should push just once on navigation stack and animate once to Sign in (case 679)
+- Removed structural navigation at Sign in screen that was already set, it should animate just once to Home screen (case 679)
 - Sign in/up with Apple (case 682, 684) - implementation separation - note if you already using Apple ID with this app and you want to sign up, remove your Apple ID that was used in system settings, explained in Manage App Using Apple ID
 - Removed lorem ipsum on confirmation dialog when channel is not available in EPG, added channel name as title
 
