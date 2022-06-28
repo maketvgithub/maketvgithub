@@ -24,7 +24,7 @@
 - Removed lorem ipsum on confirmation dialog when channel is not available in EPG, added channel name as title
 
 ### Explain
-- Username (case 677) - if you type dejan.rogulja it will add suffix `orion.rs`, except you already typed `@`
+- Username (case 677) - if you type dejan.rogulja it will add suffix `@orion.rs`, except you already typed `@`
 - My reminders (case 697) - not reproduced
 - Sign in with Apple - [Manage App Using Apple ID](https://support.apple.com/en-us/HT210426)
 - IDFA - Add Ad Identifier - [Set up a test device](https://support.google.com/admob/answer/9691433#example) 
