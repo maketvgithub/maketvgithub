@@ -4,6 +4,12 @@ Sve značajne promene ovog projekta biće dokumentovane u ovoj datoteci.
 Format se zasniva na [Keep a Changelog](http://keepachangelog.com/)
 i ovaj projekta se pridržava [Semantic Versioning](http://semver.org/).
 
+## [5.0.3] - 27.06.2022.
+
+### Fixed
+- [Firebase Crash Analytics] Ispravke
+- Nije bila dobra pozdravna poruka nakon ponoći
+
 ## [5.0.2] - 24.06.2022.
 
 ### Fixed
